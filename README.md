@@ -10,5 +10,5 @@
 - OC&Swift(封装SDK)
 - PHP(tp5封装接口)
 
-### contact me
+### Contact me
 - email: 18519191125@163.com
