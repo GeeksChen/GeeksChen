@@ -1,7 +1,5 @@
 ### Hello guys 👋
 
-<!--
-**GeeksChen/GeeksChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Technical stack
 
@@ -13,4 +11,4 @@
 
 ### contact me
 - email: 18519191125@163.com
--->
+
